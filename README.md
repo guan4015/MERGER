@@ -37,4 +37,4 @@ the files under the default directory to avoid unnecessary debug since the FileN
 
 ## Acknowledgments
 
-The author thanks Professor Eron Fishler for his help on this assignment.
+The author thanks Professor Lee Maclin for his help on this assignment.
